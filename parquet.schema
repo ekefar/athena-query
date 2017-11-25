@@ -1,0 +1,8 @@
+message m {
+  optional int64 row;
+  optional double mz;
+  optional double rt;
+  optional double charge;
+  optional double x;
+  optional double y;
+}
